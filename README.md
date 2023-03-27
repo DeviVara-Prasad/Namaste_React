@@ -72,3 +72,14 @@ dist folder is a final target folder where our minified and optimised code will 
 
 22.What is `browserlists`?
 `browserlists` is a configuration by we can tell on which browsers and on versions our app should definetely work.
+
+23.What is `JSX`?
+JSX is a Syntax extenstion to JavaScript. Where the Syntax Just looks like an HTML. 
+
+24.Superpowers of JSX?
+JSX provides us some benefits. As it's syntax is very similar to HTML. It is easy to understand what we want to render in DOM. JSX syntax has feature with curly braces inside HTML , Where we can execute any Javascript code. Declarative coding appraoch as we are using JSX along babel. babel automatically complies the JSX code and gives us React. We don't need to write complex ReactElement our selfs.
+
+25.Role of type attribute in script tag? What options can I use there?
+type attribute in script tag tells us the type script represented by the element.like classic scripts, javascript
+modules. you can use empty string type or javascript MIME type which represents classic javascript. you can use type module which represents javascript module. module scripts require the CORS protocol for cross-origin fetching.
+
